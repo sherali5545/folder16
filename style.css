@@ -1,0 +1,361 @@
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    } 
+     .gita{
+    width: 1440px;
+    height: 70px;
+    gap: 10px;
+    color:black;
+    opacity: 10px;
+    padding-top: 15px;
+    padding-right: 100px;
+    padding-bottom: 15px;
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.kolum{
+    justify-content: space-between;
+    gap:10px;
+}
+h1{
+    line-height:56px ;
+    letter-spacing: 0%;
+
+}
+.coock{
+    display: flex;
+}
+
+.ill{
+    text-align: right;
+}
+.happt{
+    display: flex;
+    justify-content: flex-end;
+}
+
+ button{
+    font-size:20px ;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+ }
+
+ .tom{
+    justify-content:center ;
+
+ }
+ .oiu{
+    text-align: center;
+    opacity: 1;
+ }
+ .asd{
+    text-align: center;
+
+ }
+ .tre{
+    background-color: white;
+    width: 380px;
+    height: 380px;
+    border:1px solid black ;
+    border-radius: 20px;
+    margin-left:50px ;
+    
+
+   
+ }
+.tre:hover{
+    color:blue ;
+    background-color:royalblue;
+    border:1px solid blue ;
+
+ }
+ 
+ .ytr{
+    margin-left:50px ;
+
+ }
+ .awwe{
+    color: black;
+    margin-left:20px;
+ }
+ .poi{
+    margin-left:41px  ;
+    margin-top: 50px;
+    color: black;
+
+ }
+ .ggy{
+    color: black;
+ }
+ .kire{
+
+    width: 380px;
+    height: 380px;
+    margin-left:41px  ;
+    margin-top: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+
+ }
+  .kire{
+    background-color:white;
+    width: 380px;
+    height: 380px;
+    border-radius: 20px;
+    margin-left:50px ;
+    
+
+   
+ }
+ 
+.kire:hover{
+    background: #E7E7E7;
+    background-color:white;
+    border:1px solid #E7E7E7;
+
+ }
+ .mnb{
+    width: 380px;
+    height: 380px;
+    margin-left:41px  ;
+    margin-top: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+  
+
+ }
+
+
+
+ .mnb:hover{
+    background: #E7E7E7;
+    background-color:white;
+    border:1px solid #E7E7E7;
+ }
+ 
+ .ddd{
+    width: 380px;
+    height: 380px;
+    margin-left:41px  ;
+    margin-top: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+  
+
+ }
+  .ddd:hover{
+    background: #E7E7E7;
+    background-color:white;
+    border:1px solid #E7E7E7;
+ }
+ .fbi{
+    width: 380px;
+    height: 380px;
+    margin-left:41px  ;
+    margin-top: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+  
+
+ }
+.fbi:hover{
+  background: #E7E7E7;
+    background-color:white;
+    border:1px solid #E7E7E7;
+}
+.jkl{
+    width: 380px;
+    height: 380px;
+    margin-left:41px  ;
+    margin-top: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+  
+}
+
+.jkl:hover{
+  background: #E7E7E7;
+    background-color:white;
+    border:1px solid #E7E7E7;
+}
+.lin{
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap;
+   gap:100px;
+   
+}
+.koml{
+   display: flex;
+}
+.common{
+   border-radius: 55px;
+   border: 1px solid blue;
+   color: blue;
+   width: 200px;
+   height: 40px;
+   text-align: center;
+   padding: 10px;
+   
+
+
+}
+.common:hover{
+   border: 1px soid blue;
+   color: blue;
+   background-color: royalblue;
+}
+.ikkki{
+   text-align: center;
+
+}
+.birkit{
+   display: flex;
+
+}
+.several{
+   align-items: end;
+}
+.dacer{
+   display: flex;
+}
+button{
+   border-radius: 55px;
+   border: 1px solid blue;
+   color:blue;
+   background-color: white;
+   width: 200px;
+   height: 40px;
+   text-align: center;
+   padding: 10px;
+}
+button:hover{
+   border: 1px solid blue;
+   color: blue;
+   background-color: royalblue;
+}
+.hunt{
+   text-align: center;
+}
+.karobka{
+   border-radius: 20px;
+   border: 1px solid black;
+   width: 380px;
+   height: 516px;
+   gap:50px ;
+
+
+}
+.car{
+   display: flex;
+}
+.not{
+   color: blue;
+}
+
+.zitabi{
+    border-radius: 20px;
+   border: 1px solid black;
+   width: 380px;
+   height: 516px;
+   gap:50px ;
+
+}
+.alll{
+   display: flex;
+   gap:30px ;
+   padding-top: 70px;
+
+}
+.zitaikk{
+    border-radius: 20px;
+   border: 1px solid black;
+   width: 380px;
+   height: 516px;
+   gap:50px ;
+
+}
+.knobka{
+   border-radius: 55px;
+   border: 1px solid blue;
+   color:blue;
+   background-color: white;
+   width: 200px;
+   height: 40px;
+   text-align: center;
+   padding: 10px;
+margin: auto;
+}
+.knobka:hover{
+   border: 1px solid blue;
+   color: blue;
+   background-color: royalblue;
+}
+.bittasi{
+   width: 1600px;
+height: 432px;
+background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+margin: auto;
+display: flex;
+gap:30px ;
+padding: 100px;
+
+
+}
+.taqdir{
+   border-radius: 70px;
+   color: blue;
+   background-color: white;
+   width: 40px;
+   height: 41px;
+   text-align: center;
+   margin-left: 10px;
+   margin-top: 20px;
+
+
+}
+.mastona{
+   color: white;
+   text-align: left;
+   display: flex;
+}
+.ity{
+   color: white;
+   display: flex;
+   justify-content: left;
+   gap: 20px;
+   text-align:center ;
+}
+.pichoq{
+   display:flex;
+   gap: 30px 30px;
+}
+.ochish{
+   color: white;
+   
+}
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
